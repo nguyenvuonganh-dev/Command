@@ -2,7 +2,7 @@
 
 # Script tự động cấu hình SSH cho Ubuntu 22.04
 # Cho phép đăng nhập bằng password
-# wget -O - https://raw.githubusercontent.com/your-repo/setup_ssh.sh | sudo bash
+# https://raw.githubusercontent.com/nguyenvuonganh-dev/Command/refs/heads/main/ubuntu_ssh.sh
 echo "Bắt đầu cấu hình SSH..."
 
 # Cập nhật hệ thống và cài đặt openssh-server
