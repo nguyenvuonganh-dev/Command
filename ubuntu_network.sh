@@ -2,7 +2,7 @@
 
 # Script thiết lập Static IP cho Ubuntu 22.04 - Chạy qua Curl
 # URL: https://raw.githubusercontent.com/nguyenvuonganh-dev/Command/refs/heads/main/ubuntu_network.sh
-# Sử dụng: curl -sSL https://your-url/setup-static-ip.sh | sudo bash
+# Sử dụng: curl -sSL https://raw.githubusercontent.com/nguyenvuonganh-dev/Command/refs/heads/main/ubuntu_network.sh | sudo bash
 
 set -e  # Dừng script nếu có lỗi
 
